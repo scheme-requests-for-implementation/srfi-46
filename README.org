@@ -4,6 +4,8 @@
 
 
 
+keywords: [[https://srfi.schemers.org/?keywords=syntax][Syntax]]
+
 This repository hosts [[https://srfi.schemers.org/srfi-46/][SRFI 46]]: Basic Syntax-rules Extensions, a [[https://srfi.schemers.org/][Scheme Request for Implementation]].
 
 This SRFI is in /final/ status.
